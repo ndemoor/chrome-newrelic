@@ -1,0 +1,22 @@
+.app_name .btn {
+	margin: 0 10px 0 0;
+}
+
+.app_name .chnr_name_form {
+	padding: 10px 10px 5px 10px;
+}
+
+.app_name .chnr_name_form .btn {
+	position: relative;
+	margin: 0 0 0 10px;
+	top: -5px;
+}
+
+.app_name .chnr_name_tag {
+	font-size: 12px;
+	margin-left: 10px;
+}
+
+#add_name_tags {
+	cursor: pointer;
+}

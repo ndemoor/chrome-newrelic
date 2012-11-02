@@ -1,24 +1,3 @@
-# New Relic Server Annotation
-
-New Relic only provides the hostname in the server list, which can get quite messy when you are monitoring lots of servers who don't necessarely report to an application.
-This chrome extension provides functionality to add naming tags to your server list, making it easier to find the specific server you are looking for.
-
-## Features
-
-- Added an extra button in the top bar of the server list, to toggle adding name tags
-- When clicking this button 'set name' buttons will appear next to every server
-- Click on a 'set name' button and an input box pops up, to name that given server
-- The name will appear next to the server in the server list
-
-## Acknowledgements
-
-This extension wouldn't be possible without these well known libraries:
-
-- [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
-- [jQuery](http://jquery.com)
-
-## License
-
 Copyright © 2012 Nils De Moor 
 http://www.scooptic.be/
 
