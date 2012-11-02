@@ -20,6 +20,12 @@ This extension wouldn't be possible without these well known libraries:
 - [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 - [jQuery](http://jquery.com)
 
+## Disclaimer
+
+I am in no way related to or commisioned by New Relic, Inc., the company behind [New Relic](http://newrelic.com). This extension was built solely for my own purpose and convenience. New Relic, Inc. is not involved in this software project at all.
+
+If you want to check out amazing server and application monitoring software, jump to [New Relic](http://newrelic.com) and sign up for an account.
+
 ## License
 
 Copyright © 2012 Nils De Moor 
