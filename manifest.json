@@ -1,6 +1,6 @@
 {
   "name": "New Relic Server Annotation",
-  "version": "0.2",
+  "version": "0.3",
   "manifest_version": 2,
   "description": "Extension to add naming tags to your New Relic server list",
   "icons": { 
@@ -8,7 +8,6 @@
     "48": "icon48.png",
     "128": "icon128.png" 
   },
-  "browser_action": { "default_icon": "icon19.png" },
   "permissions": [ "tabs", "storage", "https://*.newrelic.com/" ],
   "web_accessible_resources": [ "form.html" ],
   "content_scripts": [ {
