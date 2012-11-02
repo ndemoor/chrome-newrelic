@@ -13,6 +13,22 @@ This chrome extension provides functionality to add naming tags to your server l
 ![Screenshot](https://raw.github.com/ndemoor/chrome-newrelic/master/doc/save.png)
 - The name will appear next to the server in the server list
 
+## Installation
+
+### From the webstore
+- Go to the [Chrome Web Store](https://chrome.google.com/webstore/detail/new-relic-server-annotati/jieglgplcbogcdhnckaiojeojfnmdpbn) entry for this extension
+- Click 'Add to chrome'
+- Approve privileges
+
+### From source
+- Clone or Fork the code to your hard drive
+- In Chrome go to `Window` > `Extensions`
+- Check `Developer mode` on
+- Click `Load unpacked extension`
+- Choose the folder where the code for this extension resides
+
+Happy tagging!
+
 ## Acknowledgements
 
 This extension wouldn't be possible without these well known libraries:
