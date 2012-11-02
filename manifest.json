@@ -1,8 +1,13 @@
 {
-  "name": "New Relic Server Tag",
-  "version": "1.0",
+  "name": "New Relic Server Annotation",
+  "version": "0.1",
   "manifest_version": 2,
-  "description": "The first extension that I made.",
+  "description": "Chrome extension to add naming tags to your server list, making it easier to find the specific server you are looking for in the list",
+  "icons": { 
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png" 
+  },
   "browser_action": { },
   "permissions": [ "tabs", "storage", "https://*.newrelic.com/" ],
   "web_accessible_resources": [ "form.html" ],
