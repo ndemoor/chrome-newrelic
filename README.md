@@ -1,4 +1,4 @@
-# New Relic Server Annotation Chrome Extension
+# New Relic Server Annotation
 
 New Relic only provides the hostname in the server list, which can get quite messy when you are monitoring lots of servers who don't necessarely report to an application.
 This chrome extension provides functionality to add naming tags to your server list, making it easier to find the specific server you are looking for.
