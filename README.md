@@ -6,7 +6,7 @@ This chrome extension provides functionality to add naming tags to your server l
 ## Features
 
 - Added an extra button in the top bar of the server list, to toggle adding name tags
-![Screenshot](https://raw.github.com/ndemoor/chrome-newrelic/master/doc/add_name_tags.png)
+![Screenshot](https://raw.github.com/ndemoor/chrome-newrelic/master/doc/server_list.png)
 - When clicking this button 'set name' buttons will appear next to every server
 ![Screenshot](https://raw.github.com/ndemoor/chrome-newrelic/master/doc/set_name.png)
 - Click on a 'set name' button and an input box pops up, to name that given server
